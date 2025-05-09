@@ -31,7 +31,7 @@ The project report details the development and evaluation of the 64-Puzzle solve
 - **Challenges**: Managing memory usage and ensuring GUI responsiveness for complex puzzles.
 - **Future Work**: Implementing IDA\* for memory efficiency, adding pattern databases, and supporting manual user moves.
 
-For full details, refer to the project report (`report.pdf`) in the repository.
+For full details, refer to the project report (`project report.pdf`) in the project directory in repository.
 
 ## Requirements
 
