@@ -1,4 +1,4 @@
-# 64-Puzzle Solver with A\* Algorithm and Graph Visualization
+# AI-Based 64-Puzzle Solver with Graph Traversal Visualization 
 
 ## Overview
 
