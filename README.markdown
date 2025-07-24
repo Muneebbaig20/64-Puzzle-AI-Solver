@@ -48,12 +48,4 @@ For full details, refer to the project report (`project report.pdf`) in the proj
 - Higher scramble depths (50+) increase memory and computation demands, highlighting A\*'s limitations in large state spaces.
 - Graph visualization effectively illustrates node expansion and path selection.
 
-## Authors
 
-- Muneeb Baig (22K-5095)
-- Rafay Ahmed (22K-5030)
-
-## Acknowledgments
-
-- Instructor: Ms. Almas Ayesha Ansari
-- Course: Artificial Intelligence
